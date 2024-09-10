@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bionic-truck-434714-n2",
+  "private_key_id": "c7314b1c5437e705c2c4b6e328c19e94160caf1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDA7dmObpqem1MF\nqeen7Epzxahk3199lpSG/ibjK9SSjMLl9iIk7YEVWphNn4vTPyG4euXDmkzTNSoe\nyw05J5HbOqhYyGPcCz9+cRmTtNNFkiLL9zsMexxcUNSDsTND9WMaNns6Ar2IanvR\nGtdjG5UC3UDTmxolkwl1owqjpZpj8IP9ozOsbW6L7Qd5B7BcvwaqCdT/fFaKL96K\nQ43BdcktlgQwkxx1ZwMv1xvHidVj3G9RkjGxJ2IkfeqOfQR+xWkfPWcgg+A6VIUl\nl4BUQ+ZSEOZuU1JaycHSwfOED8fcNiTvi//l3ye/wKZt7PrYR3Zo/ye/Ktwb09J3\nntl3HtYpAgMBAAECggEAPI5Lg5/my1LQh84RJs2NfvIzDVppdBeADjEWzqYyxj8F\na73KcNHVevjhJjgmYMuHj4qPtMopRAADdP/h6icn6mpqbdeUNHyZVNw2HX0b9VHN\ntzymHaBEwhsi4SUNBM8waIliO06h5AAcVgF5SqPdLTV6RBECb3nL9c8Tp1Ly91v6\nBAbXj/LBmvaOASrHonJBGsbo5J4/lWtz/r9BRtOZ7ibihqG9GeLEZUVKh38TXfJ3\numMdfqY+bSQsf/lSIwz8OcqsvON1Wn49OZq66GeDGqhtSshq+iCUh7n/fyMpoH+m\nb8XVThJc5DR5V5PL48OXDO7ordqJnUVQ8KlS0w5hcwKBgQD4uffEJy2KMhUSXUmO\nVtcVOotmkxwcL7EuZioQgFhE02bG0sSJKQ9yk7n+qEKpX5AXnhJSBIzN7ejLn7rZ\nbouUqM5oPrp11tV9yZW95SKvLL9kkWaPuTc1XqxFF6lmrjKB9vwba7p2gAsctqNu\n1uQkQu/32+DRFzDAQTpqbP/2TwKBgQDGkisW09rAMgre0QzrIa2uYaYMQ1SbpxZT\nRh1ovnTqQuPIjrGgGkI+OskE5PczuE+h0bfKZW2Ih142Ml5CIb2gFZmoIIadLv1U\nlSYPunXakkyGD4FE/4zaZIjITRevwWjPIHUY8LLW9m2q3ms8ZnKpY0ukvKnYWCzK\nir3FOQLGBwKBgEKqpexfi+dEsT0w3+xU/mVkQcUGnTw41EbZf2DY5c/c0elsyNzy\nsn9FdU76jpOTV63c4pA1RABWSlV5xL1O0f7QmDJ8zcGUCbkjdQ1nAzrsxYgRKOpQ\n/KlDbO1AAFnTSxpmtwAqidoFS/UwRvIIizHk9yj6OHISwzBky2GHQbwlAoGBAMZk\nZ5SpGheIZ//ykZuizGo7ubDq3G+fYtjUZrGuCBW9uuM4XhN96M1P4mN3d9w+u6EL\nbTtUVzlfNiuj6zTbjR+SNTEbPiNxPT3yvlJckz9LiBUxDJCpWksgwuCM1auN6292\nGEhQw/2tvChJjI6ONOU0BfGTZYZ3oljCgZO4wCKlAoGASxTDH6OkMimukI5CVt8W\nU2eKBBZfkiG3t8sB36ujEen3eunvpJdjmCsYG3CB4XRqJoQ2nCgVqFb/jmVzdXw1\nuHNyv1yH4aWlQbYry/oEsiSdPlvSj7jZVlB5ARHXxLIWPIpgcOjIC9vwfCEIwxjT\nHTz0ygO4WUXGAy5n39jXbpg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-mybusiness@bionic-truck-434714-n2.iam.gserviceaccount.com",
+  "client_id": "110959135341740543811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-mybusiness%40bionic-truck-434714-n2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
