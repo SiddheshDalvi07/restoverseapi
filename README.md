@@ -1,7 +1,3 @@
-Here's a README file based on the project details you provided:
-
----
-
 # Google Login and Review Section Integration
 
 ## Project Overview
